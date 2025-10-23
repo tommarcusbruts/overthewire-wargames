@@ -7,5 +7,5 @@ for me it was
 ```bash...
 ssh -p 2220 bandit0@bandit.labs.overthewire.org
 ```
-and after entering the password its done you are welcome to the lab.
+and after entering the password "bandit0" its done you are welcome to the lab.
 ---
