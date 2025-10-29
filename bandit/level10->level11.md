@@ -5,4 +5,4 @@ On this level the password is save in _data.txt_ file but this time the password
 
 ## logic to solve
 on this level decrypt the content with **base64** to get the password . 
-passwd= FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+passwd=  dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
